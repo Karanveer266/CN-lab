@@ -1,0 +1,19 @@
+2025-08-30 23:27:28,340 - Querying DNS records for: iitp.ac.in 
+2025-08-30 23:27:33,301 - Found 1 A record(s):
+2025-08-30 23:27:33,301 -   -> 14.139.194.4
+2025-08-30 23:27:38,261 - Found 1 MX record(s):
+2025-08-30 23:27:38,261 -   -> 0 iitp-ac-in.mail.protection.outlook.com.
+2025-08-30 23:27:42,379 -   No CNAME records found.
+2025-08-30 23:27:42,379 - Querying DNS records for: google.com 
+2025-08-30 23:27:46,467 - Found 1 A record(s):
+2025-08-30 23:27:46,467 -   -> 142.250.76.206
+2025-08-30 23:27:50,559 - Found 1 MX record(s):
+2025-08-30 23:27:50,559 -   -> 10 smtp.google.com.
+2025-08-30 23:27:54,629 -   No CNAME records found.
+2025-08-30 23:27:54,629 - Querying DNS records for: mail.google.com 
+2025-08-30 23:27:58,729 - Found 1 A record(s):
+2025-08-30 23:27:58,730 -   -> 216.58.203.37
+2025-08-30 23:28:02,856 -   No MX records found.
+2025-08-30 23:28:06,978 -   No CNAME records found.
+2025-08-30 23:28:06,979 - Querying DNS records for: this-domain-does-not-exist-12345.com 
+2025-08-30 23:28:11,108 -   The domain 'this-domain-does-not-exist-12345.com' does not exist (NXDOMAIN).
