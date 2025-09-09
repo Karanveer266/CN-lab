@@ -26,7 +26,7 @@ def send_email():
     msg["To"] = receiver
     msg["Subject"] = "Test Email from Python"
 
-    body = "Hello! This is a test email sent using Ethereal Email (no phone needed)."
+    body = "Hello! This is a test email sent using Ethereal Email from karan veer"
     msg.attach(MIMEText(body, "plain"))
 
     try:
