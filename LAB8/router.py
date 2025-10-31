@@ -16,7 +16,6 @@ class Router:
     Implements a router with a forwarding table that uses the
     Longest Prefix Match (LPM) algorithm.
     """
-    
     def __init__(self, routes: list):
         """
         Initializes the router with a list of routes.
